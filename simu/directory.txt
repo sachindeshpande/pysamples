@@ -1,0 +1,12 @@
+sachins-mbp:python sachindeshpande$ pwd
+/Users/sachindeshpande/Projects/python
+sachins-mbp:python sachindeshpande$ cd simu
+sachins-mbp:simu sachindeshpande$ ls
+test1.py
+sachins-mbp:simu sachindeshpande$ python test1.py
+Start parking at 0
+Start driving at 5
+Start parking at 7
+Start driving at 12
+Start parking at 14
+sachins-mbp:simu sachindeshpande$
